@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahgsb&show_icons=true&theme=tokyonight&count_private=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahgsb&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/sarahgsb/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/sarahgsb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarahgsb&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahgsb&langs_count=20&layout=compact&theme=tokyonight" />
+</a>
+  </div>
