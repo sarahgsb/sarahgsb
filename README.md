@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/sarahgsb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarahgsb&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/sarahgsb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahgsb&langs_count=20&layout=compact&theme=tokyonight" />
 </a>
   </div>
